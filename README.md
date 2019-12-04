@@ -1,6 +1,6 @@
 # Ruby-on-Rails
 
-##Guide
+## Guide
 
 1. Download and install
 
